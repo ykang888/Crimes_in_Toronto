@@ -10,8 +10,6 @@ This project provides an in-depth analysis of crime patterns in Toronto, aiming 
 ## Quick Links
 
 - [Shiny Dashboard](https://yk706.shinyapps.io/toronto_app/)
-- [Data Source](#data-source)
-- [Methodology](#methodology)
-- [Findings and Reports](/reports)
-- [Visualizations](/visualizations)
-- [Contributing](/CONTRIBUTING.md)
+- [Data](https://github.com/ykang888/Crimes_in_Toronto/tree/wip/toronto_app/data)
+- [Shiny Code](https://github.com/ykang888/Crimes_in_Toronto/blob/wip/toronto_app/app.R)
+- [Write-up](https://github.com/ykang888/Crimes_in_Toronto/tree/wip/write-up)
