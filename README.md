@@ -9,7 +9,7 @@ This project provides an in-depth analysis of crime patterns in Toronto, aiming 
 
 ## Quick Links
 
-- [Shiny Dashboard]([#toronto-crime-analysis-project](https://yk706.shinyapps.io/toronto_app/))
+- [Shiny Dashboard](https://yk706.shinyapps.io/toronto_app/)
 - [Data Source](#data-source)
 - [Methodology](#methodology)
 - [Findings and Reports](/reports)
